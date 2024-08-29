@@ -6,15 +6,15 @@
 ## 🖥️Projects
 Below is the list of projects I've developed
 
-- [IBM Data Science Capstone](#ibm-data-science-capstone)
+- [IBM Applied Data Science Capstone](#ibm-applied-data-science-capstone)
 
-## ✅IBM Data Science Capstone
+## ✅IBM Applied Data Science Capstone
 ### Introduction:
 In this project, acting as a Data Scientist, I created classification algorithms with the creation and verification of accuracy of models such as Linear Regression, KNN, Decision Trees, SVM and Logistic Regression.
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [IBM Data Science Capstone](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
+- [IBM Applied Data Science Capstone](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
 </br>
 </br>
 <h1 align="center">
