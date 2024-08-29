@@ -14,7 +14,7 @@ In this project, acting as a Data Scientist, I performed all the necessary steps
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [IBM Applied DS Capstone](https://github.com/gut0oliveira/Machine-Learning/tree/main/Classification-With-Python)
+- [IBM Applied DS Capstone](https://github.com/gut0oliveira/Data-Science/tree/main/IBM-Applied-DS-Capstone)
 </br>
 </br>
 <h1 align="center">
