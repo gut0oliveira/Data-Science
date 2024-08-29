@@ -17,7 +17,7 @@ To access it, click the link to be redirected to the project page👇🏻
 - [IBM Applied DS Capstone](https://github.com/gut0oliveira/Data-Science/tree/main/IBM-Applied-DS-Capstone)
 
 To access the Professional Certificate, click the link to be redirected to the page👇🏻
-- [IBM](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
+- [IBM Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 </br>
 </br>
 <h1 align="center">
