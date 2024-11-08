@@ -6,7 +6,7 @@
 ## 🖥️Projects
 Below is the list of projects I've developed
 
-- [IBM Applied Data Science Capstone](#ibm-applied-data-science-capstone)
+- IBM Applied Data Science Capstone
 
 ## ✅IBM Applied Data Science Capstone
 ### Introduction:
