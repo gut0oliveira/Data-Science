@@ -19,7 +19,3 @@ To access it, click the link to be redirected to the project page👇🏻
 To access the Professional Certificate, click the link to be redirected to the page👇🏻
 - [IBM Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7EFVREK5NY5X)
 </br>
-</br>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=28&duration=2500&pause=200&color=2800F7&center=true&width=800&lines=Thanks+for+your+attention!;" />
-</h1>
